@@ -1,7 +1,7 @@
 # Virus-Simulator
 **Authors:**
 - Diogo Goto
-- Gabriel Stuart
+- [Gabriel Stuart](https://github.com/utczbr)
 
 Program that Simulates how a virus would spread over a population
 
