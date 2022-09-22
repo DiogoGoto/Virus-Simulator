@@ -14,6 +14,15 @@ The Graphics plots the graph by reading the data from the csv file
 - Gray = Imunes (Survived the disease and are imune for 1 year)
 - Blue = Vaccinated (Imunes for their entire life)
 
+## Libraies Needeed
+- matplotlib.pyplot
+- matplotlib.animation
+- csv
+- pandas
+- turtle
+- time
+- numpy
+
 ## Extra information
 - Individuals lives for 50 years if they don't die for the disease 
 - Most variables are in portuguese 
